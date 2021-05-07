@@ -10,13 +10,13 @@
 - ⚡ Fun fact: I love to play bowling.
 
 ```sh
- #Subjects at university : computer network , computer graphics, database system
+ Subjects at university : computer network , computer graphics, database system
  ```
  
  ```sh
- #Subjects at 42 SEOUL : implement C Library
+ Subjects at 42 SEOUL : implement C Library
  ```
  
  ```sh
- #Subjects studied alone : assembly language
+ Subjects studied alone : assembly language
 ```
