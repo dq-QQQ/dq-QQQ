@@ -10,13 +10,13 @@
 - ⚡ Fun fact: I love to play bowling.
 
 ```sh
- Subjects at university : in vacation
+ Subjects at university : cloud
  ```
  
  ```sh
- Subjects at 42 SEOUL : Understanding the Virtual Environment
+ Subjects at 42 SEOUL : making 2d game by using opengl library
  ```
  
  ```sh
- Subjects studied alone : assembly language
+ Subjects studied alone :  unreal engine
 ```
