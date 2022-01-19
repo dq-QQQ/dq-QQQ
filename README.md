@@ -14,7 +14,7 @@
  ```
  
  ```sh
- Subjects at 42 SEOUL : implement the stack and sort
+ Subjects at 42 SEOUL : implement the stack and sorting
  ```
  
  ```sh
