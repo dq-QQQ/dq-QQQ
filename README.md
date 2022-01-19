@@ -14,7 +14,7 @@
  ```
  
  ```sh
- Subjects at 42 SEOUL : making 2d game by using opengl library
+ Subjects at 42 SEOUL : implement the stack and sort
  ```
  
  ```sh
