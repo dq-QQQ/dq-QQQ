@@ -10,13 +10,13 @@
 - ⚡ Fun fact: I love to climbing.
 
 ```sh
- Subjects at university : NULL
+ Subjects at university : WebServer
  ```
  
  ```sh
- Subjects at 42 SEOUL : implement the stack and sorting
+ Subjects at 42 SEOUL : implement the shell
  ```
  
  ```sh
- Subjects studied alone :  Swift
+ Subjects studied alone :  Swift, SwiftUI
 ```
