@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Computer Engineering Student  
 
 -  I major in computer engineering and in the 4rd grade.
 - 📚 I’m currently learning at university and 42seoul.
