@@ -14,7 +14,7 @@
  ```
  
  ```sh
- Subjects at 42 SEOUL : implement the shell
+ Subjects at 42 SEOUL : implement the 3d game
  ```
  
  ```sh
