@@ -6,11 +6,11 @@
 
 -  I major in computer engineering and in the 4rd grade.
 - 📚 I’m currently learning at university and 42seoul.
-- 💪🏼 Future Goals: be an IOS Developer
+- 💪🏼 Future Goals: be an iOS Developer
 - ⚡ Fun fact: I love to climbing.
 
 ```sh
- Subjects at university : WebServer
+ Subjects at university : 
  ```
  
  ```sh
