@@ -22,4 +22,4 @@
 ```
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dq-qqq&hide=javascript,html&langs_count=8)](https://github.com/dq-qqq)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dq-qqq&hide=javascript,html&langs_count=4)](https://github.com/dq-qqq)
