@@ -10,11 +10,11 @@
 - ⚡ Fun fact: I love to climbing.
 
 ```sh
- Subjects at university : 
+ Subjects at university : UI/UX
  ```
  
  ```sh
- Subjects at 42 SEOUL : 
+ Subjects at 42 SEOUL : Docker
  ```
  
  ```sh
