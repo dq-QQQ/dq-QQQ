@@ -14,10 +14,6 @@
  ```
  
  ```sh
- Subjects at 42 SEOUL : Docker
- ```
- 
- ```sh
  Subjects studied alone :  Swift, SwiftUI, UIKit
 ```
 
