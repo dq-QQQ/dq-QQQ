@@ -17,5 +17,6 @@
  Subjects studied alone :  Swift, SwiftUI, UIKit
 ```
 
+[portfolio](https://fourth-people-47c.notion.site/Portfolio-8d0a39764f1f4b90b34eaabde52cba04)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dq-qqq&hide=javascript,html&langs_count=3)](https://github.com/dq-qqq)
