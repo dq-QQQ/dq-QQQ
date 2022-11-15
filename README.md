@@ -14,7 +14,7 @@
  ```
  
  ```sh
- Subjects studied alone :  Swift, SwiftUI, UIKit
+ Subjects studied alone :  Data Structure & Algorithm in swift, iOS basics
 ```
 
 [portfolio](https://fourth-people-47c.notion.site/Portfolio-8d0a39764f1f4b90b34eaabde52cba04)
